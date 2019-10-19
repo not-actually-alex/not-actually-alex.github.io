@@ -1,209 +1,93 @@
 {
   "basics": {
-    "name": "Bret Fisher",
-    "label": "Sysadmin. Developer. Entrepreneur.",
-    "picture": "avatar.jpg",
-    "email": "bret@bretfisher.com",
-    "phone": "+1 757-375-4433",
-    "website": "https://www.bretfisher.com",
-    "summary": "20+ years in IT. Linux/Windows/macOS/SmartOS server Sysadmin with love for DevOps. Docker Captain. Bestselling Udemy Author. Hackish Web, JS, and Bash Developer. Over 30 certifications. Countless happy customers and users. A longer resume with lots of recommendations on LinkedIn. I Have my hands in many pots, but these days spend much of my time getting companies into the cloud, and modernizing/automating cloud infrastructure. I also currently work with *Infrastructure as Code*, Docker, cloud automation, SaltStack, CI/CD, and operationalization of manual tasks. Lover of DevOps and ChatOps movements. I spend my free time in our local, thriving, developer and startup scene with a focus on volunteerism and community organizing. I basically spend my days helping people. A people-person who finds himself in front of the computer way too often. I live at The Beach. Dogs over Cats.",
+    "name": "John Doe",
+    "label": "Programmer",
+    "picture": "",
+    "email": "john@gmail.com",
+    "phone": "(912) 555-4321",
+    "website": "http://johndoe.com",
+    "summary": "A summary of John Doe...",
     "location": {
-      "address": "",
-      "postalCode": "VA 23451",
-      "city": "Virginia Beach",
+      "address": "2712 Broadway St",
+      "postalCode": "CA 94115",
+      "city": "San Francisco",
       "countryCode": "US",
-      "region": "Virginia"
+      "region": "California"
     },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "BretFisher",
-        "url": "https://twitter.com/bretfisher"
-      },
-      {
-        "network": "GitHub",
-        "username": "BretFisher",
-        "url": "https://github.com/bretfisher"
-      },
-      {
-         "network": "Facebook",
-        "username": "bretfisher.devops",
-        "url": "https://www.facebook.com/bretfisher.devops"
-      },
-      {
-        "network": "LinkedIn",
-        "username": "BretFisher",
-        "url": "https://www.linkedin.com/in/bretefisher"
-      }
-    ]
+    "profiles": [{
+      "network": "Twitter",
+      "username": "john",
+      "url": "http://twitter.com/john"
+    }]
   },
-  "work": [
-    {
-      "company": "Core Enable",
-      "position": "For-Hire Consultant and Trainer",
-      "website": "http://bretfisher.com",
-      "startDate": "2010-01-01",
-      "summary": "Serving dozens of clients throughout North America for Cloud and On-Prem Docker, Sysadmin, DevOps, Infrastructure Security/Monitoring, and Automation",
-      "highlights": [
-        "Advise clients and engineer infrastructure build-out in the cloud: Azure, AWS, Digital Ocean, Joyent, and others. Container and virtual machine automation and management, hybrid cloud design, automation with JavaScript, PowerShell, and shell scripts",
-        "Create and manage systems and services in the cloud: site-to-site VPN's, proxys, backups, caching, CDN, PaaS, IaaS, CI/CD, git-based deployments, webhook automation, autoscaling, cloud monitoring, and central logging.",
-        "Manage/operate virtual machines for many clients, including patching, P2V, automation, monitoring, failover, backups, etc.",
-        "Build out of 200+ servers AWS + Joyent Public Cloud Linux and SmartOS infrastructure in SaltStack.",
-        "Many Docker container continuous deployment designs. Docker CI, logging, and discovery automation.",
-        "Build out of 70+ servers for financial services org using Hyper-V and Systems Center, across 3 sites. Hybrid cloud.",
-        "Build out of customers Microsoft Private Cloud using Azure Portal and System Center.",
-        "Many P2V and virtualization build-outs. Onsite, hybrid, and pure cloud."
-      ]
-    },
-    {
-      "company": "Winsitter",
-      "position": "CEO and Co-Founder",
-      "website": "http://winsitter.com",
-      "startDate": "2012-01-01",
-      "endDate": "2015-09-01",
-      "summary": "Built a SaaS to help small businesses monitor their servers and get mobile alerts about potential issues.",
-      "highlights": [
-        "Built a fully cloud-based, redundant, continuous integration and deployment infrastructure handling 1m transactions a day. Including: Git, GitHub, Azure, Ubuntu, Node.js, Meteor.js, MongoDB Replicas, Codeship, SSH/SFTP, Slack ChatOps, Sendgrid, Docker, Papertrail logging, NewRelic Node.js monitoring, MMS Backups, and fully automated server builds and deploys. Shutdown in 2015 due to slow growth and trouble finding our market.",
-        "Assisted Node.js development of API backend on express.",
-        "Lead development of Meteor.js web and mobile front-end dashboard for system monitoring."
-      ]
-    },
-    {
-      "company": "City of Virginia Beach",
-      "position": "Infrastructure Team Leader",
-      "website": "http://vbgov.com",
-      "startDate": "2004-07-01",
-      "endDate": "2009-11-01",
-      "summary": "Managing the data center systems of 500 OS's for 7,000 users, with a team of ~7",
-      "highlights": [
-        "Migrated from a physical datacenter to mostly-virtualized datacenter, drastically reducing floor space and energy requirements.",
-        "Oversaw a team of senior engineers maintaining all servers, clients, backups, storage, and monitoring for 400 servers, 4,000 clients, and 6,000 users.",
-        "Built automation using PowerShell, VBScript, Batch, Bash, SSH, WMI.",
-        "Spearheaded many major tech advancements at the city, including web collaboration (SharePoint), VoIP and multimedia collaboration (Lync), client VPN for 1000+ mobile devices, iSCSI storage networks, and much more."
-      ]
-    },
-    {
-      "company": "many others including Navy, NMCI, Consulting companies, Freelancing. See LinkedIn.",
-      "startDate": "1994-01-01",
-      "endDate": "2006-01-01"
-    }
-
-  ],
-  "volunteer": [
-    {
-      "organization": "Code for America",
-      "position": "Co-Captain, Code for Hampton Roads Brigade",
-      "website": "http://code4hr.org/",
-      "startDate": "2012-07-01",
-      "summary": "I herd cats, play cloud sysadmin, and build Open Source Software to help citizens and local government. Global volunteer movement to open government data and make useful things for citizens."
-    },
-    {
-      "organization": "Docker Hampton Roads",
-      "position": "Founder, Organizer, Docker Captain",
-      "website": "http://dockerhr.org/",
-      "startDate": "2016-03-01",
-      "summary": "Helping others gather and learn about containers and the Docker ecosystem."
-    }
-  ],
-  "education": [
-    {
-      "institution": "Navy",
-      "area": "Information Technology (Data Systems Tech)",
-      "studyType": "'A' and 'C' Advanced Engineering Schools",
-      "startDate": "1993-12-01",
-      "endDate": "1995-02-01"
-    },
-    {
-      "institution": "Many certification classes over the years"
-    }
-  ],
-  "awards": [
-    {
-      "title": "Eagle Scout",
-      "date": "1991-01-01",
-      "awarder": "Boy Scouts of America"
-    },
-    {
-      "title": "Gartner IT Security Innovation Award, 2007, Public Sector",
-      "date": "2007-07-01",
-      "awarder": "Gartner, for Initial Idea and Overseeing Creation of a Web+Email Based Secure Messaging Application"
-    }
-
-  ],
-  "publications": [
-    {
-      "name": "My main site, About Me, etc. (forthcoming)",
-      "website": "http://bretfisher.com",
-      "summary": "Docker and DevOps Articles/Presentations"
-    },
-    {
-      "name": "Fishbrains Sysadmin Blog",
-      "website": "http://fishbrains.com",
-      "summary": "My main blog for the last 15+ years. Not updated recently"
-    }
-  ],
-  "skills": [
-    {
-      "name": "Sysadmin and IT Pro",
-      "level": "Level: Epic I hope",
-      "keywords": [
-        "MongoDB",
-        "Linux, FreeBSD, Solaris/SmartOS, OSX",
-        "Windows Server and Clients",
-        "Docker",
-        "Saltstack, Puppet, CloudFormation",
-        "DevOps",
-        "ChatOps (just had to put that in there)",
-        "Azure, AWS/EC2, Digital Ocean, Joyent",
-        "VMWare/ESX, Hyper-V, Parallels",
-        "Shell Scripting, PowerShell",
-        "JavaScript/Node.js",
-        "Continuous Integration/Deployment, Jenkins, CodeShip, TravisCI",
-        "Microsoft SQL",
-        "Microsoft System Center",
-        "Way to many tools and products to list..."
-      ]
-    },
-    {
-      "name": "Web Development",
-      "level": "Level: Hacker for Good",
-      "keywords": [
-        "JavaScript",
-        "Node.js",
-        "Meteor",
-        "HTML/CSS",
-        "ASP.NET",
-        "PHP, Symfony",
-        "MS-SQL, Postgres, MySQL",
-        "MongoDB",
-        "many other frameworks on the languages mentioned here"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Rob Atwood, IT Systems and Support Director, City of Virginia Beach",
-      "reference": "Bret's knowledge of all aspects of Information Technology is second to none.'...'Bret's technical skills are only matched by his personal skills. He has the ability to build relationships with customers and coworkers. I would recommend him for any engineering opportunity."
-    },
-    {
-      "name": "Dave Foster, App Servers Team Lead, overseeing 6+ systems engineers and 300 servers",
-      "reference": "Bret is one of the more innovative individuals I have had the opportunity to work with. An extremely knowledgeable person on current technology..."
-    },
-    {
-      "name": "Michael Clark, Team Lead, CTO, and Instructor with over 40 certifications",
-      "reference": "Top notch Microsoft expertise, and I'm still trying to figure out how he keeps as current as he does. If there is something new in the IT field, he will know about it, and his solutions are rock solid!"
-    },
-    {
-      "name": "Kevin Griffin, Co-Founder of Winsitter, Microsoft MVP",
-      "reference": "...Working with Bret was like hitting a gold mine. Every conversation I had with him enlightened me more. Bret is the type of engineer I strive to be in the future."
-    },
-    {
-      "name": "Melissa Zibutis, Virginia Beach City Government - Office of Volunteer Resources",
-      "reference": "It has been an honor and a pleasure to work with Bret and his team of volunteers over the past two years. In partnering with Bret, we have had the ability to show our community the tremendous impact civic minded volunteers can have on public engagement. Bret is creative and enthusiastic, but also realistic and respects existing city policy. I would highly recommend any community organization or municipal government to partner with Bret and his volunteers. They have been such a pleasure to work with and I look forward to seeing all that the future has in store for our partnership."
-    },
-    {
-      "name": "Monica Vollmer, MetaSourcers",
-      "reference": "Bret is one of the most talented IT professionals I've met to date. I've had the privilege of hiring Bret for several of my clients over the years and the feedback is nothing but stellar. Not only does Bret have a strong background in a variety of areas, he's often the Subject Matter Expert I go to when looking for high level technical candidates. He stays plugged in and is thought very highly of in the IT industry. He's not just a solid IT professional; he's got an amazing personality that allows him to be a huge asset to any organization. I’ll continue to seek Bret’s background and knowledge simply because I know what my clients will get – a top notch individual!"
-    }
-  ]
+  "work": [{
+    "company": "Company",
+    "position": "President",
+    "website": "http://company.com",
+    "startDate": "2013-01-01",
+    "endDate": "2014-01-01",
+    "summary": "Description...",
+    "highlights": [
+      "Started the company"
+    ]
+  }],
+  "volunteer": [{
+    "organization": "Organization",
+    "position": "Volunteer",
+    "website": "http://organization.com/",
+    "startDate": "2012-01-01",
+    "endDate": "2013-01-01",
+    "summary": "Description...",
+    "highlights": [
+      "Awarded 'Volunteer of the Month'"
+    ]
+  }],
+  "education": [{
+    "institution": "University",
+    "area": "Software Development",
+    "studyType": "Bachelor",
+    "startDate": "2011-01-01",
+    "endDate": "2013-01-01",
+    "gpa": "4.0",
+    "courses": [
+      "DB1101 - Basic SQL"
+    ]
+  }],
+  "awards": [{
+    "title": "Award",
+    "date": "2014-11-01",
+    "awarder": "Company",
+    "summary": "There is no spoon."
+  }],
+  "publications": [{
+    "name": "Publication",
+    "publisher": "Company",
+    "releaseDate": "2014-10-01",
+    "website": "http://publication.com",
+    "summary": "Description..."
+  }],
+  "skills": [{
+    "name": "Web Development",
+    "level": "Master",
+    "keywords": [
+      "HTML",
+      "CSS",
+      "Javascript"
+    ]
+  }],
+  "languages": [{
+    "language": "English",
+    "fluency": "Native speaker"
+  }],
+  "interests": [{
+    "name": "Wildlife",
+    "keywords": [
+      "Ferrets",
+      "Unicorns"
+    ]
+  }],
+  "references": [{
+    "name": "Jane Doe",
+    "reference": "Reference..."
+  }]
 }

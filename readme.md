@@ -1,16 +1,26 @@
-Resume of Bret Fisher
+dockerized jsonresume
 =====================
 
-made with http://jsonresume.org
+Made with http://jsonresume.org
 
-hosted by http://github.com at http://resume.bretfisher.com
+I suggest hosting with [github pages](https://pages.github.com/) since it's easy.
+
+* just fork this repo
+* rename to username.github.io
+* clone and go!
+
+You need to [install docker](https://docs.docker.com/install/).
 
 ## want to make your own resume from JSON?
 
-* `sudo npm install -g resume-cli jsonresume-theme-slick`
-* `mkdir resume; cd resume`
-* `resume init`
-* This will give you a template resume.json file. Edit, then to create a html from it using the template I used:
-* `resume export index.html -t slick`
+* pick your [theme](https://jsonresume.org/themes/) and edit the Dockerfile with the theme; this uses [elegant](https://github.com/mudassir0909/jsonresume-theme-elegant)
+ * update the `npm` package and the `-t` flag
+* fill in the resume.json
+* run the `./build` script
+
 
 more options including publishing to their registry at http://jsonresume.org
+
+Thanks
+======
+Forked from https://github.com/BretFisher/resume
