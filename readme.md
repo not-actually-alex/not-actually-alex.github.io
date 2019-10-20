@@ -17,6 +17,7 @@ You need to [install docker](https://docs.docker.com/install/).
  * update the `npm` package and the `-t` flag
 * fill in the resume.json
 * run the `./build` script
+* push to your github.io page repo
 
 
 more options including publishing to their registry at http://jsonresume.org
