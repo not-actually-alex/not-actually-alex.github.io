@@ -1,18 +1,18 @@
 {
   "basics": {
     "name": "Alex Barberis",
-    "label": "Programmer",
+    "label": "FinOps Analyst",
     "picture": "",
-    "email": "john@gmail.com",
-    "phone": "(912) 555-4321",
+    "email": "alexbarberis@gmail.com",
+    "phone": "(858) 344-8560",
     "website": "http://johndoe.com",
     "summary": "A summary of John Doe...",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "658 Clarendon Dr",
+      "postalCode": "CO 80504",
+      "city": "Longmont",
       "countryCode": "US",
-      "region": "California"
+      "region": "Colorado"
     },
     "profiles": [{
       "network": "Twitter",
