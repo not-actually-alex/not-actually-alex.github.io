@@ -5,31 +5,59 @@
     "picture": "",
     "email": "alexbarberis@gmail.com",
     "phone": "(858) 344-8560",
-    "website": "http://johndoe.com",
-    "summary": "A summary of John Doe...",
+    "website": "https://www.linkedin.com/in/alexbarberis/",
+    "summary": "Results-driven Senior FinOps Analyst-Cloud with extensive experience in cost analysis/optimization. Expert in driving cost transparency, delivering solutions, and identifying savings opportunities. Skilled in data analysis, finance, technology, and cross-functional collaboration. Proven track record of driving efficiencies, managing costs, and delivering impactful improvements.",
     "location": {
-      "address": "658 Clarendon Dr",
+      "address": "Longmont"
       "postalCode": "CO 80504",
-      "city": "Longmont",
       "countryCode": "US",
       "region": "Colorado"
     },
     "profiles": [{
-      "network": "Twitter",
-      "username": "john",
-      "url": "http://twitter.com/john"
+      "network": "LinkedIn",
+      "username": "Alex Barberis",
+      "url": "https://www.linkedin.com/in/alexbarberis/"
     }]
   },
   "work": [{
-    "company": "Company",
-    "position": "President",
-    "website": "http://company.com",
-    "startDate": "2013-01-01",
-    "endDate": "2014-01-01",
-    "summary": "Description...",
+    "company": "Cisco - Valtix",
+    "position": "Operations Manager",
+    "website": "http://cisco.com",
+    "startDate": "2021",
+    "summary": "Operations specialist focused on Cloud Costs, Finance, Payroll and Compliance",
     "highlights": [
-      "Started the company"
+      "Responsible for managing and optimizing Cloud Costs (AWS, Azure, GCP) by workload and project - used RI’s, CSP’s, credits and other tools to reduce cloud costs by 50% while increasing hours consumed by 15%"
+      "Lead the adoption of FinOps best practices across the company including monthly Cloud Costs/Spend updates to drive business-wide culture change"
+      "Extensive experience in Cloud FinOps with a strong passion for data analysis and cost analysis/optimization in large Cloud environments"
+      "Subject matter expert with the ability to speak the languages of finance, technology, and business to drive cross-functional and cross-organizational collaboration"
+      "Proven track record of identifying cost savings and optimization opportunities in partnership with application engineering teams, and establishing complete cloud infrastructure financial plans, budgets, and spend forecasts"
+      "Ability to influence with data, build models and dashboards, and provide ongoing cost transparency to drive savings and efficiencies, while managing budgets and finding creative ways to make improvements"
     ]
+  },
+{
+    "company": "Gabriel Sales",
+    "position": "Director of Operations and Accounts - Part Time",
+    "website": "http://digitaldemandcenter.com",
+    "startDate": "2017",
+    "summary": "Built and operate a marketing automation platform serving SMB's. Went part-time in 2021",
+    "highlights": [
+      "Promoted rapidly to Director of Accounts after developing sales operations strategies, tools, systems, analytics and processes for B2B sales org; set KPI’s and organizational sales objectives and drive reporting"
+      "For marketing and sales ops, managed cross-functional project to set KPI’s based on achieved results, adjusting for incentives and opportunities for improvement, implementing further changes based on feedback loop"
+      "Trusted advisor to client C-suite. Influence leaders to adopt prescriptive best practices and drive organizational change"
+    ]
+  },
+{
+    "company": "HomeUnion",
+    "position": "Account Executive / Client Solutions Manager",
+    "website": "http://homeunion.com",
+    "startDate": "2015",
+    "endDate": "2016",
+    "summary": "Sold investments in Real Estate through AI platform",
+    "highlights": [
+      "Developed ground-up sales SOP’s to increase lead conversion by 20%, work with IT to implement changes in technology infrastructure"
+    ]
+  },
+{
   }],
   "volunteer": [{
     "organization": "Organization",
@@ -85,9 +113,3 @@
       "Ferrets",
       "Unicorns"
     ]
-  }],
-  "references": [{
-    "name": "Jane Doe",
-    "reference": "Reference..."
-  }]
-}
