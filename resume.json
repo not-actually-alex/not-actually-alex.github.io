@@ -58,28 +58,65 @@
     ]
   },
 {
-  }],
-  "volunteer": [{
-    "organization": "Organization",
-    "position": "Volunteer",
-    "website": "http://organization.com/",
-    "startDate": "2012-01-01",
-    "endDate": "2013-01-01",
-    "summary": "Description...",
-    "highlights": [
-      "Awarded 'Volunteer of the Month'"
-    ]
-  }],
+  "company": "Edward Jones",
+  "position": "Financial Advisor",
+  "website": "http://edwardjones.com",
+  "startDate": "2014",
+  "endDate": "2015",
+  ]
+  },
+{
+  "company": "Santander - Aquanima",
+  "position": "Senior Analyst",
+  "website": "http://santander.com",
+  "startDate": "2013",
+  "endDate": "2014",
+  "highlights": [
+    "Led a team of 6 analysts to evaluate complex financial data and identify company and industry trends while establishing KPIs and SOPs for executive leadership. By leveraging Agile & Scrum methodologies and strong interpersonal skills, improved team performance and saved the organization over $2M in costs through meticulous analysis of the company's operating budget"
+  ]
+},
+{
+  "company": "Arbitech",
+  "position": "Product Manager",
+  "website": "http://arbitech.com",
+  "startDate": "2012",
+  "endDate": "2013",
+  "highlights": [
+    "Achieved a 12% YOY revenue growth of the company's largest product line, accounting for over 65% of total revenue, within a 12-month period by developing the business line and defining the product line roadmap after extensive market research, managing the supply chain, sourcing and securing vendor relationships, and collaborating with cross-functional leaders to achieve business goals"
+  ]
+},
+{
+  "company": "Logically - K&R Network Solutions",
+  "position": "Purchasing Manager / Purchasing Assistant",
+  "website": "http://logically.com",
+  "startDate": "2007",
+  "endDate": "2010",
+  "highlights": [
+    "Promoted rapidly (within 12-months) to Purchasing Manager, collaborating with sales, technology and other cross-functional teams to facilitate organizational objectives. Managed finished goods procurement, inventory, supply chain and distribution. Tasked with budgeting, vendor relations, and financial reporting"
+  ]
+},
+{
+  "company": "Oracle - Sun Microsystems",
+  "position": "Technology Intern",
+  "website": "http://oracle.com",
+  "startDate": "2001",
+  "endDate": "2006",
+  "highlights": [
+    "Successful internship with large enterprise Information Technology company. Worked with enterprise storage group on educational training material preparation/development. Acquired extensive technology competencies"
+  ]
+}],
   "education": [{
-    "institution": "University",
-    "area": "Software Development",
-    "studyType": "Bachelor",
-    "startDate": "2011-01-01",
-    "endDate": "2013-01-01",
-    "gpa": "4.0",
-    "courses": [
-      "DB1101 - Basic SQL"
-    ]
+    "institution": "Hult International Business School",
+    "area": "Business Administration - Finance",
+    "studyType": "Masters",
+    "endDate": "2010",
+  ]
+},
+{
+  "institution": "Metropolitan State University of Denver",
+  "area": "Business Administration",
+  "studyType": "Bachelors of Science",
+  "endDate": "2006",
   }],
   "awards": [{
     "title": "Award",
