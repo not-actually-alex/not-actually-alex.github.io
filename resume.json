@@ -8,7 +8,7 @@
     "website": "https://www.linkedin.com/in/alexbarberis/",
     "summary": "Results-driven Senior FinOps Analyst-Cloud with extensive experience in cost analysis/optimization. Expert in driving cost transparency, delivering solutions, and identifying savings opportunities. Skilled in data analysis, finance, technology, and cross-functional collaboration. Proven track record of driving efficiencies, managing costs, and delivering impactful improvements.",
     "location": {
-      "address": "Longmont"
+      "address": "Longmont",
       "postalCode": "CO 80504",
       "countryCode": "US",
       "region": "Colorado"
@@ -26,98 +26,101 @@
     "startDate": "2021",
     "summary": "Operations specialist focused on Cloud Costs, Finance, Payroll and Compliance",
     "highlights": [
-      "Responsible for managing and optimizing Cloud Costs (AWS, Azure, GCP) by workload and project - used RI’s, CSP’s, credits and other tools to reduce cloud costs by 50% while increasing hours consumed by 15%"
-      "Lead the adoption of FinOps best practices across the company including monthly Cloud Costs/Spend updates to drive business-wide culture change"
-      "Extensive experience in Cloud FinOps with a strong passion for data analysis and cost analysis/optimization in large Cloud environments"
-      "Subject matter expert with the ability to speak the languages of finance, technology, and business to drive cross-functional and cross-organizational collaboration"
-      "Proven track record of identifying cost savings and optimization opportunities in partnership with application engineering teams, and establishing complete cloud infrastructure financial plans, budgets, and spend forecasts"
+      "Responsible for managing and optimizing Cloud Costs (AWS, Azure, GCP) by workload and project - used RI’s, CSP’s, credits and other tools to reduce cloud costs by 50% while increasing hours consumed by 15%",
+      "Lead the adoption of FinOps best practices across the company including monthly Cloud Costs/Spend updates to drive business-wide culture change",
+      "Extensive experience in Cloud FinOps with a strong passion for data analysis and cost analysis/optimization in large Cloud environments",
+      "Subject matter expert with the ability to speak the languages of finance, technology, and business to drive cross-functional and cross-organizational collaboration",
+      "Proven track record of identifying cost savings and optimization opportunities in partnership with application engineering teams, and establishing complete cloud infrastructure financial plans, budgets, and spend forecasts",
       "Ability to influence with data, build models and dashboards, and provide ongoing cost transparency to drive savings and efficiencies, while managing budgets and finding creative ways to make improvements"
     ]
   },
-{
-    "company": "Gabriel Sales",
-    "position": "Director of Operations and Accounts - Part Time",
-    "website": "http://digitaldemandcenter.com",
-    "startDate": "2017",
-    "summary": "Built and operate a marketing automation platform serving SMB's. Went part-time in 2021",
+  {
+      "company": "Gabriel Sales",
+      "position": "Director of Operations and Accounts - Part Time",
+      "website": "http://digitaldemandcenter.com",
+      "startDate": "2017",
+      "summary": "Built and operate a marketing automation platform serving SMB's. Went part-time in 2021",
+      "highlights": [
+        "Promoted rapidly to Director of Accounts after developing sales operations strategies, tools, systems, analytics and processes for B2B sales org; set KPI’s and organizational sales objectives and drive reporting",
+        "For marketing and sales ops, managed cross-functional project to set KPI’s based on achieved results, adjusting for incentives and opportunities for improvement, implementing further changes based on feedback loop",
+        "Trusted advisor to client C-suite. Influence leaders to adopt prescriptive best practices and drive organizational change"
+      ]
+    },
+  {
+      "company": "HomeUnion",
+      "position": "Account Executive / Client Solutions Manager",
+      "website": "http://homeunion.com",
+      "startDate": "2015",
+      "endDate": "2016",
+      "summary": "Sold investments in Real Estate through AI platform",
+      "highlights": [
+        "Developed ground-up sales SOP’s to increase lead conversion by 20%, work with IT to implement changes in technology infrastructure"
+      ]
+    },
+  {
+      "company": "Edward Jones",
+      "position": "Financial Advisor",
+      "website": "http://edwardjones.com",
+      "startDate": "2014",
+      "endDate": "2015"
+      
+    },
+  {
+    "company": "Santander - Aquanima",
+    "position": "Senior Analyst",
+    "website": "http://santander.com",
+    "startDate": "2013",
+    "endDate": "2014",
     "highlights": [
-      "Promoted rapidly to Director of Accounts after developing sales operations strategies, tools, systems, analytics and processes for B2B sales org; set KPI’s and organizational sales objectives and drive reporting"
-      "For marketing and sales ops, managed cross-functional project to set KPI’s based on achieved results, adjusting for incentives and opportunities for improvement, implementing further changes based on feedback loop"
-      "Trusted advisor to client C-suite. Influence leaders to adopt prescriptive best practices and drive organizational change"
+      "Led a team of 6 analysts to evaluate complex financial data and identify company and industry trends while establishing KPIs and SOPs for executive leadership. By leveraging Agile & Scrum methodologies and strong interpersonal skills, improved team performance and saved the organization over $2M in costs through meticulous analysis of the company's operating budget"
     ]
   },
-{
-    "company": "HomeUnion",
-    "position": "Account Executive / Client Solutions Manager",
-    "website": "http://homeunion.com",
-    "startDate": "2015",
-    "endDate": "2016",
-    "summary": "Sold investments in Real Estate through AI platform",
+  {
+    "company": "Arbitech",
+    "position": "Product Manager",
+    "website": "http://arbitech.com",
+    "startDate": "2012",
+    "endDate": "2013",
     "highlights": [
-      "Developed ground-up sales SOP’s to increase lead conversion by 20%, work with IT to implement changes in technology infrastructure"
+      "Achieved a 12% YOY revenue growth of the company's largest product line, accounting for over 65% of total revenue, within a 12-month period by developing the business line and defining the product line roadmap after extensive market research, managing the supply chain, sourcing and securing vendor relationships, and collaborating with cross-functional leaders to achieve business goals"
     ]
   },
-{
-  "company": "Edward Jones",
-  "position": "Financial Advisor",
-  "website": "http://edwardjones.com",
-  "startDate": "2014",
-  "endDate": "2015",
-  ]
-  },
-{
-  "company": "Santander - Aquanima",
-  "position": "Senior Analyst",
-  "website": "http://santander.com",
-  "startDate": "2013",
-  "endDate": "2014",
-  "highlights": [
-    "Led a team of 6 analysts to evaluate complex financial data and identify company and industry trends while establishing KPIs and SOPs for executive leadership. By leveraging Agile & Scrum methodologies and strong interpersonal skills, improved team performance and saved the organization over $2M in costs through meticulous analysis of the company's operating budget"
-  ]
-},
-{
-  "company": "Arbitech",
-  "position": "Product Manager",
-  "website": "http://arbitech.com",
-  "startDate": "2012",
-  "endDate": "2013",
-  "highlights": [
-    "Achieved a 12% YOY revenue growth of the company's largest product line, accounting for over 65% of total revenue, within a 12-month period by developing the business line and defining the product line roadmap after extensive market research, managing the supply chain, sourcing and securing vendor relationships, and collaborating with cross-functional leaders to achieve business goals"
-  ]
-},
-{
-  "company": "Logically - K&R Network Solutions",
-  "position": "Purchasing Manager / Purchasing Assistant",
-  "website": "http://logically.com",
-  "startDate": "2007",
-  "endDate": "2010",
-  "highlights": [
-    "Promoted rapidly (within 12-months) to Purchasing Manager, collaborating with sales, technology and other cross-functional teams to facilitate organizational objectives. Managed finished goods procurement, inventory, supply chain and distribution. Tasked with budgeting, vendor relations, and financial reporting"
-  ]
-},
-{
-  "company": "Oracle - Sun Microsystems",
-  "position": "Technology Intern",
-  "website": "http://oracle.com",
-  "startDate": "2001",
-  "endDate": "2006",
-  "highlights": [
-    "Successful internship with large enterprise Information Technology company. Worked with enterprise storage group on educational training material preparation/development. Acquired extensive technology competencies"
-  ]
-}],
-  "education": [{
-    "institution": "Hult International Business School",
-    "area": "Business Administration - Finance",
-    "studyType": "Masters",
+  {
+    "company": "Logically - K&R Network Solutions",
+    "position": "Purchasing Manager / Purchasing Assistant",
+    "website": "http://logically.com",
+    "startDate": "2007",
     "endDate": "2010",
+    "highlights": [
+      "Promoted rapidly (within 12-months) to Purchasing Manager, collaborating with sales, technology and other cross-functional teams to facilitate organizational objectives. Managed finished goods procurement, inventory, supply chain and distribution. Tasked with budgeting, vendor relations, and financial reporting"
+    ]
+  },
+  {
+    "company": "Oracle - Sun Microsystems",
+    "position": "Technology Intern",
+    "website": "http://oracle.com",
+    "startDate": "2001",
+    "endDate": "2006",
+    "highlights": [
+      "Successful internship with large enterprise Information Technology company. Worked with enterprise storage group on educational training material preparation/development. Acquired extensive technology competencies"
+    ]
+    }
+  ], 
+  "education": [
+    {
+      "institution": "Hult International Business School",
+      "area": "Business Administration - Finance",
+      "studyType": "Masters",
+      "endDate": "2010"
+    },
+    {
+      "institution": "Metropolitan State University of Denver",
+      "area": "Business Administration",
+      "studyType": "Bachelors of Science",
+      "endDate": "2006"
+    }
   ]
-},
-{
-  "institution": "Metropolitan State University of Denver",
-  "area": "Business Administration",
-  "studyType": "Bachelors of Science",
-  "endDate": "2006",
-  }],
+  ,
   "awards": [{
     "title": "Award",
     "date": "2014-11-01",
@@ -138,6 +141,7 @@
       "Javascript"
     ]
   }],
+
   "languages": [{
     "language": "English",
     "fluency": "Native speaker"
@@ -148,3 +152,5 @@
       "Ferrets",
       "Unicorns"
     ]
+  }]
+}
